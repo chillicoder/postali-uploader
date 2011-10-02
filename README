@@ -1,0 +1,8 @@
+Postali Uploader
+
+El compañero de aventuras de Postali.
+
+Lee el archivo CSV que se descarga desde SEPOMEX y lo guarda en una base de datos Redis.
+
+El archivo debe convertirse de ISO-8859-1 a UTF-8. Su mejor amigo es iconv ;)
+
